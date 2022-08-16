@@ -1,7 +1,3 @@
-/*
-    ===== Código de TypeScript =====
-*/
-
 
 //- APRENDIENDO EL USO DE FUNCIONES -//
 

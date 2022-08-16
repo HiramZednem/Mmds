@@ -1,6 +1,4 @@
-/*
-    ===== Código de TypeScript =====
-*/
+
 /*
     Se dio una tarea de el objeto superHeroe volverlo tipado, la solcucion es esta:
     El problema que se presenta en esta tarea en principal, es que el superheroe que estamos creando tiene un objeto anidado que es la direccion

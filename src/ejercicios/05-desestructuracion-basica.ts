@@ -1,9 +1,3 @@
-/*
-    ===== Código de TypeScript =====
-*/
-
-
-/*   DESESTRUCTURACIÓN DE OBJETOS   */
 
 //Siempre antes de crear un objeto hay que empezar creando la interfaz por que esto nos da la idea de como va a lucir el objeto
 interface Detalles {
@@ -72,6 +66,7 @@ const { autor : autorCancion } = detalles;
 
 const dbz: string[] = ['Goku','Vegeta','Trunks'];
 const [ , , p3 ] = dbz;
+//Se deja vacio, por que no me interesa sacar los otros personajes
 
 // console.log('Personaje 1: ', p1);
 // console.log('Personaje 2: ', p2);

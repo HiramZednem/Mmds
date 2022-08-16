@@ -1,6 +1,3 @@
-/*
-    ===== Código de TypeScript =====
-*/
 
 let habilidades: string[] = ['Bash','Counter','Healing'];
 //let habilidades: (string | number)[] = ['bash',1]
